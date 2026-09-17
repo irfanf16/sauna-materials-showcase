@@ -7,7 +7,7 @@ eCommerce for sauna construction materials, where products compose into buildabl
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — catalogue modelling, pricing rules and admin tooling.
+Full-stack engineer
 
 ## Engineering highlights
 
