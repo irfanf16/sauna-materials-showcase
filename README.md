@@ -20,12 +20,6 @@ Full-stack engineer
 **External integrations.** `mashape/unirest-php` for third-party supplier and shipping API calls.
 
 
-## Screenshots
-
-<!-- ![Kit Builder](docs/kit-builder.png) -->
-<!-- ![Catalogue](docs/catalogue.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
